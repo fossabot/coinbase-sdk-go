@@ -1,4 +1,6 @@
 # Coinbase Go SDK
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2Fcoinbase-sdk-go.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2Fcoinbase-sdk-go?ref=badge_shield)
+
 
 
 The Coinbase Go SDK enables the simple integration of crypto into your app. By calling Coinbase's Platform APIs, the SDK allows you to create Go representations of crypto addresses and stake with those addresses.
@@ -30,3 +32,7 @@ Install the latest version:
 go install github.com/coinbase/coinbase-sdk-go
 ```
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2Fcoinbase-sdk-go.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2Fcoinbase-sdk-go?ref=badge_large)
